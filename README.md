@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there!
 
+I am a software developer based in Amman, Jordan.     
+    
+Main stack : React, Redux, NodeJs, ExpressJs, MongoDB.
+     
+Portfolio : https://thabet.dev/       
+LinkedIn : https://www.linkedin.com/in/thabetsabha/       
 <!--
 **ThabetSabha/ThabetSabha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
