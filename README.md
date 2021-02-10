@@ -2,7 +2,7 @@
 
 I am a software developer based in Amman, Jordan.     
     
-Main stack : React, Redux, NodeJs, ExpressJs, MongoDB.
+Main stack : React, Redux, NodeJs, ExpressJs, PostgreSQL.
      
 Portfolio : https://thabet.dev/       
 LinkedIn : https://www.linkedin.com/in/thabetsabha/       
